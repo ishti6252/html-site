@@ -1,0 +1,25 @@
+body {
+  background-color:#8B7E74;
+}
+
+h1 {
+  color: lightgrey;
+}
+
+h2 {
+  color: lightgrey;
+}
+
+
+
+hr  {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: lightgrey;
+  border-width: 5px;
+  width: 10%;
+}
+
+img {
+  height: 300px;
+}
